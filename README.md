@@ -1,16 +1,9 @@
 # dy_card
 
-A new Flutter project.
+## stack
 
-## Getting Started
+dart, flutter
 
-This project is a starting point for a Flutter application.
+## about
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+교내 칭찬카드 시스템을 온라인으로 전환하여 사용할 수 있도록 앱을 개발 중.
