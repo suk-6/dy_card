@@ -33,8 +33,9 @@ class _MainPageState extends State<MainPage> {
           style: TextStyle(
               fontFamily: "NotoSansKR", fontSize: 23, color: Colors.black),
         ),
-        centerTitle: true,
-        backgroundColor: Colors.white,
+        centerTitle: false,
+        elevation: 0.0,
+        backgroundColor: Color.fromARGB(255, 207, 207, 207),
       ),
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
